@@ -1,5 +1,8 @@
 # Neural_Network_Charity_Analysis
 
+![deep-learning-brain-cutaway-800x450](https://user-images.githubusercontent.com/108313440/201224553-98ab0663-d790-41f6-b4a2-96cb39038d90.jpg)
+
+
 ## Overview of the Project
 In this analysis, we help Alphabet Soup 's business team to determine if the money it donated was used effectively by organizations that it funded over the past years. The dataset contained 34,000 organizations that had received funding from Alphabet soup. In the dataset, columns included the application type, the industry sector, the government classification, the use case for funding, the type of organization, income classification, funding amount requestedand, and the effective useness of the money. There were three steps invovled in this project : 
 
