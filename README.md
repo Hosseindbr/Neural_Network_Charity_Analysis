@@ -10,3 +10,8 @@ In this analysis, we help Alphabet Soup 's business team to determine if the mon
 3. Optimizing the model
 
 To this end, I created neural network models using Scikit-Learn, Tensorflow and Keras to complete this analysis.
+
+
+## Resources
+* Data Source: [charity_data.csv] (https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_19/charity_data.csv)
+* Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
