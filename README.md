@@ -28,8 +28,7 @@ To this end, I created neural network models using Scikit-Learn, Tensorflow and 
 * Identification information such as EIN and NAME has been removed from the input data.
 
 * Column IS_SUCCESSFUL contains binary data that indicates whether charity donations were used effectively. Our deep learning neural 
-
-* network uses this variable as its target.
+network uses this variable as its target.
 
 * The following columns APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT are the features for our model.
 
